@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ziwei Wang"
 title_separator          : "-"
 name                     : &name "Ziwei Wang"
-description              : &description "Assistant Professor at Nanyang Technological Univeristy"
+description              : &description "Ziwei Wang's homepage"
 url                      : https://ziweiwang6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ziweiwang6/ziweiwang6.github.io"
@@ -21,14 +21,14 @@ repository               : "ziweiwang6/ziweiwang6.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "icon.png"
+  name             : "Ziwei Wang"
+  #pronouns         : # example: "she/her"  
+  bio              : "Assistant Professor at Nanyang Technological Univeristy"
+  #location         : "Earth"
+  #employer         : "Red Brick University"
+  #uri              : # URL
+  email            : "ziweiwa2@andrew.cmu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
