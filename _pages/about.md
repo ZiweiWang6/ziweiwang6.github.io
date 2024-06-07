@@ -13,7 +13,7 @@ I am currently an assistant professor in  School of Electrical and Electronic En
 
 News
 ------
-<font size=3>**2024-05: I will join School of Electrical and Electronic Engineering, Nanyang Technological University as an Assistant Professor 2024 Fall.** </font><br>
+<font size=3>**2024-05: I will join School of Electrical and Electronic Engineering, Nanyang Technological University as an Assistant Professor 2024 Fall.**</font><br>
 <font size=3>2024-05: One paper is accepted to [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369).</font><br>
 <font size=3>2024-05: One paper is accepted to [IJCV](https://link.springer.com/journal/11263).</font><br>
 <font size=3>2024-03: Our paper on general robotic manipulation with dynamic Gaussian Splatting is pre-printed on Arxiv. [[PDF]](https://arxiv.org/abs/2403.08321)[[Website]](https://guanxinglu.github.io/ManiGaussian/)[[Code]](https://github.com/GuanxingLu/ManiGaussian)</font><br>
