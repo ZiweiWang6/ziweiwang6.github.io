@@ -13,7 +13,7 @@ I am currently an assistant professor in  School of Electrical and Electronic En
 
 News
 ------
-<font size=3>**2024-05: I will join School of Electrical and Electronic Engineering, Nanyang Technological University as an Assistant Professor 2024 Fall.** <\font>
+<font size=3>**2024-05: I will join School of Electrical and Electronic Engineering, Nanyang Technological University as an Assistant Professor 2024 Fall.**<\font>
 
 2024-05: One paper is accepted to [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369).
 
