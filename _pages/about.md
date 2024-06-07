@@ -13,7 +13,7 @@ I am currently an assistant professor in  School of Electrical and Electronic En
 
 News
 ------
-<font size=5>
+<font size=2>
   
 <font color="red"> 2024-05: I will join School of Electrical and Electronic Engineering, Nanyang Technological University as an Assistant Professor 2024 Fall.</font>
 
