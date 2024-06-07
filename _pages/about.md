@@ -13,7 +13,6 @@ I am currently an assistant professor in  School of Electrical and Electronic En
 
 News
 ------
-<font size=2>
   
 <font color="red"> 2024-05: I will join School of Electrical and Electronic Engineering, Nanyang Technological University as an Assistant Professor 2024 Fall.</font>
 
@@ -32,7 +31,6 @@ News
 2023-09: One paper is accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023).
 
 2023-07: Our paper on embodied task planning with large language models is pre-printed on Arxiv. [[PDF]](https://arxiv.org/abs/2307.01848)[[Website]](https://gary3410.github.io/TaPA/)[[Code]](https://github.com/Gary3410/TaPA)[[Demo]](https://huggingface.co/spaces/xuxw98/TAPA)[[Model]](https://huggingface.co/Gary3410/pretrain_lit_llama)
-</font>
 
 Honors and Awards
 ------
