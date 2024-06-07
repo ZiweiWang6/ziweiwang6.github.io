@@ -48,7 +48,3 @@ Academic Services
 Conference Reviewer: CVPR 2020-2024, ICCV 2021/2023, ECCV 2022/2024, NeurIPS 2020-2024, ICML 2021-2024, ICLR 2021-2024, ICRA 2023-2024
 
 Journal Reviewer: T-PAMI, T-IP, T-CSVT, T-NNLS, T-IV, R-AL, Pattern Recognition, Journal of Field Robotics
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
