@@ -14,14 +14,14 @@ I am currently an assistant professor in  School of Electrical and Electronic En
 News
 ------
 <font size=3>**2024-05: I will join School of Electrical and Electronic Engineering, Nanyang Technological University as an Assistant Professor 2024 Fall.**</font><br>
-<font size=3>2024-05: One paper is accepted to [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369).</font><br>
-<font size=3>2024-05: One paper is accepted to [IJCV](https://link.springer.com/journal/11263).</font><br>
-<font size=3>2024-03: Our paper on general robotic manipulation with dynamic Gaussian Splatting is pre-printed on Arxiv. [[PDF]](https://arxiv.org/abs/2403.08321)[[Website]](https://guanxinglu.github.io/ManiGaussian/)[[Code]](https://github.com/GuanxingLu/ManiGaussian)</font><br>
-<font size=3>2024-02: Three papers are accepted to [CVPR 2024](https://cvpr.thecvf.com).</font><br>
-<font size=3>2024-02: One paper is accepted to [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).</font><br>
-<font size=3>2023-10: One paper is accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).</font><br>
-<font size=3>2023-09: One paper is accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023).</font><br>
-<font size=3>2023-07: Our paper on embodied task planning with large language models is pre-printed on Arxiv. [[PDF]](https://arxiv.org/abs/2307.01848)[[Website]](https://gary3410.github.io/TaPA/)[[Code]](https://github.com/Gary3410/TaPA)[[Demo]](https://huggingface.co/spaces/xuxw98/TAPA)[[Model]](https://huggingface.co/Gary3410/pretrain_lit_llama)</font><br>
+<font size=3>2024-05: One paper is accepted to [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369).</font>
+<font size=3>2024-05: One paper is accepted to [IJCV](https://link.springer.com/journal/11263).</font>
+<font size=3>2024-03: Our paper on general robotic manipulation with dynamic Gaussian Splatting is pre-printed on Arxiv. [[PDF]](https://arxiv.org/abs/2403.08321)[[Website]](https://guanxinglu.github.io/ManiGaussian/)[[Code]](https://github.com/GuanxingLu/ManiGaussian)</font>
+<font size=3>2024-02: Three papers are accepted to [CVPR 2024](https://cvpr.thecvf.com).</font>
+<font size=3>2024-02: One paper is accepted to [TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).</font>
+<font size=3>2023-10: One paper is accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).</font>
+<font size=3>2023-09: One paper is accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023).</font>
+<font size=3>2023-07: Our paper on embodied task planning with large language models is pre-printed on Arxiv. [[PDF]](https://arxiv.org/abs/2307.01848)[[Website]](https://gary3410.github.io/TaPA/)[[Code]](https://github.com/Gary3410/TaPA)[[Demo]](https://huggingface.co/spaces/xuxw98/TAPA)[[Model]](https://huggingface.co/Gary3410/pretrain_lit_llama)</font>
 
 Honors and Awards
 ------
