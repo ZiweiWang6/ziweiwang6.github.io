@@ -9,11 +9,25 @@ redirect_from:
 
 I am currently an assistant professor in  School of Electrical and Electronic Engineering, Nanyang Technological University, and also the director of Perception and embodied INtElligence (PINE) Lab. Before joining NTU, I was a postdoc fellow in Robotics Institute, Carnegie Mellon University with Prof. Changliu Liu. I received the Ph.D degree from the Department of Automation, Tsinghua University in 2023, supervised by Prof. Jiwen Lu. I obtained my B.S. degree in Tsinghua University in 2018. My research interests include computer vision, machine learning and robotics. 
 
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+2024-05: I will join School of Electrical and Electronic Engineering, Nanyang Technological University as an Assistant Professor 2024 Fall.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2024-05: One paper is accepted to RAL.
+
+2024-05: One paper is accepted to IJCV.
+
+2024-03: Our paper on general robotic manipulation with dynamic Gaussian Splatting is pre-printed on Arxiv. [PDF][Website][Code]
+
+2024-02: Three papers are accepted to CVPR 2024.
+
+2024-02: One paper is accepted to TIP.
+
+2023-10: One paper is accepted to TPAMI.
+
+2023-09: One paper is accepted to NeurIPS 2023.
+
+2023-07: Our paper on embodied task planning with large language models is pre-printed on Arxiv. [PDF][Website][Code][Demo][Model]
 
 Getting started
 ======
