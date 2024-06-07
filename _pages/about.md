@@ -19,7 +19,7 @@ News
 
 2024-05: One paper is accepted to [IJCV](https://link.springer.com/journal/11263).
 
-2024-03: Our paper on general robotic manipulation with dynamic Gaussian Splatting is pre-printed on Arxiv. [PDF](https://arxiv.org/abs/2403.08321)[Website](https://guanxinglu.github.io/ManiGaussian/)[Code](https://github.com/GuanxingLu/ManiGaussian)
+2024-03: Our paper on general robotic manipulation with dynamic Gaussian Splatting is pre-printed on Arxiv. [[PDF]](https://arxiv.org/abs/2403.08321)[Website](https://guanxinglu.github.io/ManiGaussian/)[Code](https://github.com/GuanxingLu/ManiGaussian)
 
 2024-02: Three papers are accepted to [CVPR 2024](https://cvpr.thecvf.com).
 
