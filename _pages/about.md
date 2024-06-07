@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor in  School of Electrical and Electronic Engineering, Nanyang Technological University, and also the director of [Perception and Embodied Intelligence (PINE) Lab](https://pineatntu.hithub.io). Before joining NTU, I was a postdoc fellow in Robotics Institute, Carnegie Mellon University with Prof. Changliu Liu. I received the Ph.D degree from the Department of Automation, Tsinghua University in 2023, supervised by Prof. Jiwen Lu. I obtained my B.S. degree in Tsinghua University in 2018. My research interests include computer vision, machine learning and robotics. 
+I am currently an assistant professor in  School of Electrical and Electronic Engineering, Nanyang Technological University, and also the director of [Perception and Embodied Intelligence (PINE) Lab](https://pineatntu.hithub.io). Before joining NTU, I was a postdoc fellow in Robotics Institute, Carnegie Mellon University with [Prof. Changliu Liu](https://www.cs.cmu.edu/~cliu6/index.html). I received the Ph.D degree from the Department of Automation, Tsinghua University in 2023, supervised by [Prof. Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/). I obtained my B.S. degree in Tsinghua University in 2018. My research interests include computer vision, machine learning and robotics.
+
+If you are interested in joining our lab, please don't hesitate to drop me an email at ziweiwa2@andrew.cmu.edu with your CV.
 
 News
 ------
