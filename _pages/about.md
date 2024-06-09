@@ -24,8 +24,7 @@ News
 <font size=3>2024-02: One paper is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83">TIP</a>.</font><br>
 <font size=3>2023-10: One paper is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">TPAMI</a>.</font><br>
 <font size=3>2023-09: One paper is accepted to <a href="https://nips.cc">NeurIPS 2023</a>.</font><br>
-<font size=3>2023-07: Our paper on embodied task planning with large language models is pre-printed on Arxiv. <a href="https://arxiv.org/abs/2307.01848">[PDF]</a><a href="https://gary3410.github.io/TaPA/">[Website]</a><a href="https://github.com/Gary3410/TaPA">[Code]</a><a href="https://huggingface.co/spaces/xuxw98/TAPA">[Demo]</a><a href="https://huggingface.co/Gary3410/pretrain_lit_llama">[Model]</a></font>
-</p>
+<font size=3>2023-07: Our paper on embodied task planning with large language models is pre-printed on Arxiv. <a href="https://arxiv.org/abs/2307.01848">[PDF]</a><a href="https://gary3410.github.io/TaPA/">[Website]</a><a href="https://github.com/Gary3410/TaPA">[Code]</a><a href="https://huggingface.co/spaces/xuxw98/TAPA">[Demo]</a><a href="https://huggingface.co/Gary3410/pretrain_lit_llama">[Model]</a></font></p>
 
 Honors and Awards
 ------
