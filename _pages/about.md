@@ -32,7 +32,7 @@ Outstanding Doctoral Dissertation of Tsinghua University, 2023
 
 National Scholarship, 2022
 
-National Scholarship, 2022
+National Scholarship, 2020
 
 Chi-Sun Yeh Scholarship, 2018
 
