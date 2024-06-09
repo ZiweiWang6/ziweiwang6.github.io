@@ -27,6 +27,7 @@ News
 
 Honors and Awards
 ------
+<p>
 2023 Outstanding Doctoral Dissertation of Tsinghua University
 
 2022 National Scholarship
@@ -36,6 +37,8 @@ Honors and Awards
 2018 Chi-Sun Yeh Scholarship
 
 2016 Qualcomm Scholarship
+
+</p>
 
 Academic Services
 ------
