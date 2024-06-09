@@ -16,7 +16,7 @@ I am currently an assistant professor in  School of Electrical and Electronic En
 News
 ------       
 <p style="line-height:120%"> 
-<font size=3>2024-05: I will join School of Electrical and Electronic Engineering, Nanyang Technological University as an Assistant Professor 2024 Fall.</font><br>
+<font size=3 font color="red">2024-05: I will join School of Electrical and Electronic Engineering, Nanyang Technological University as an Assistant Professor 2024 Fall.</font><br>
 <font size=3>2024-05: One paper is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369">RAL</a>.</font><br>
 <font size=3>2024-05: One paper is accepted to <a href="https://link.springer.com/journal/11263">IJCV</a>.</font><br>
 <font size=3>2024-03: Our paper on general robotic manipulation with dynamic Gaussian Splatting is pre-printed on Arxiv. <a href="https://arxiv.org/abs/2403.08321">[PDF]</a><a href="https://guanxinglu.github.io/ManiGaussian/">[Website]</a><a href="https://github.com/GuanxingLu/ManiGaussian">[Code]</a>.</font><br>
@@ -28,15 +28,15 @@ News
 
 Honors and Awards
 ------
-2023 Outstanding Doctoral Dissertation of Tsinghua University
+Outstanding Doctoral Dissertation of Tsinghua University, 2023
 
-2022 National Scholarship
+National Scholarship, 2022
 
-2020 National Scholarship
+National Scholarship, 2022
 
-2018 Chi-Sun Yeh Scholarship
+Chi-Sun Yeh Scholarship, 2018
 
-2016 Qualcomm Scholarship
+Qualcomm Scholarship, 2016
 
 Academic Services
 ------
