@@ -11,6 +11,8 @@ I am currently an assistant professor in  School of Electrical and Electronic En
 
 **I am looking for self-motivated PhD/Postdoc/Master. If you are interested in joining our lab, please don't hesitate to drop me an email at ziweiwa2@andrew.cmu.edu with your CV after reading this [file](https://pineatntu.hithub.io/joinus).**
 
+------
+
 News
 ------       
 <p style="line-height:100%"> 
