@@ -15,7 +15,7 @@ I am currently an assistant professor in  School of Electrical and Electronic En
 
 News
 ------       
-<p style="line-height:100%"> 
+<p style="line-height:120%"> 
 <font size=3>2024-05: I will join School of Electrical and Electronic Engineering, Nanyang Technological University as an Assistant Professor 2024 Fall.</font><br>
 <font size=3>2024-05: One paper is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369">RAL</a>.</font><br>
 <font size=3>2024-05: One paper is accepted to <a href="https://link.springer.com/journal/11263">IJCV</a>.</font><br>
@@ -28,7 +28,6 @@ News
 
 Honors and Awards
 ------
-<p>
 2023 Outstanding Doctoral Dissertation of Tsinghua University
 
 2022 National Scholarship
@@ -38,8 +37,6 @@ Honors and Awards
 2018 Chi-Sun Yeh Scholarship
 
 2016 Qualcomm Scholarship
-
-</p>
 
 Academic Services
 ------
